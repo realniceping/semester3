@@ -1,0 +1,15 @@
+D:\git-version-controll\osi\parent\bin\Debug\net6.0\parent.exe
+D:\git-version-controll\osi\parent\bin\Debug\net6.0\parent.deps.json
+D:\git-version-controll\osi\parent\bin\Debug\net6.0\parent.runtimeconfig.json
+D:\git-version-controll\osi\parent\bin\Debug\net6.0\parent.dll
+D:\git-version-controll\osi\parent\bin\Debug\net6.0\parent.pdb
+D:\git-version-controll\osi\parent\obj\Debug\net6.0\parent.csproj.AssemblyReference.cache
+D:\git-version-controll\osi\parent\obj\Debug\net6.0\parent.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-version-controll\osi\parent\obj\Debug\net6.0\parent.AssemblyInfoInputs.cache
+D:\git-version-controll\osi\parent\obj\Debug\net6.0\parent.AssemblyInfo.cs
+D:\git-version-controll\osi\parent\obj\Debug\net6.0\parent.csproj.CoreCompileInputs.cache
+D:\git-version-controll\osi\parent\obj\Debug\net6.0\parent.dll
+D:\git-version-controll\osi\parent\obj\Debug\net6.0\refint\parent.dll
+D:\git-version-controll\osi\parent\obj\Debug\net6.0\parent.pdb
+D:\git-version-controll\osi\parent\obj\Debug\net6.0\parent.genruntimeconfig.cache
+D:\git-version-controll\osi\parent\obj\Debug\net6.0\ref\parent.dll
