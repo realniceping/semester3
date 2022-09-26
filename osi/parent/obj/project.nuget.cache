@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EhbLODi4uJ6eWd+8Kf8wzWR4kgGqh9XrFyfZrADgQa+4W5UCxVRp6ySzidxWH0aMHcv4+0LiYEGFEkw/GF8Wpg==",
+  "dgSpecHash": "vJ23b58Y/6PoJN8oRmtGaaiXVOiN55GeEzYWkUFM4v3Idg/UPPvcpFZAhx1yXCpLFwwUsFvS0XWNXeEjEFvWBA==",
   "success": true,
-  "projectFilePath": "D:\\git-version-controll\\osi\\parent\\parent.csproj",
+  "projectFilePath": "D:\\osilaba\\semester3\\osi\\parent\\parent.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
