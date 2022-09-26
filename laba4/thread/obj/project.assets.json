@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Osipenko Arseny\\.nuget\\packages\\": {}
+    "C:\\Users\\arsen\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\osilaba\\semester3\\laba4\\thread\\thread.csproj",
+      "projectUniqueName": "D:\\semester3\\laba4\\thread\\thread.csproj",
       "projectName": "thread",
-      "projectPath": "D:\\osilaba\\semester3\\laba4\\thread\\thread.csproj",
-      "packagesPath": "C:\\Users\\Osipenko Arseny\\.nuget\\packages\\",
-      "outputPath": "D:\\osilaba\\semester3\\laba4\\thread\\obj\\",
+      "projectPath": "D:\\semester3\\laba4\\thread\\thread.csproj",
+      "packagesPath": "C:\\Users\\arsen\\.nuget\\packages\\",
+      "outputPath": "D:\\semester3\\laba4\\thread\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Osipenko Arseny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\arsen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://www.nuget.org/api/v2": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

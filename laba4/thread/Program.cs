@@ -49,7 +49,7 @@ namespace thread
             {
                 await file.WriteLineAsync(DateTime.Now + " value X:" + x1 + " value Y: " + Math.Log(x1));
                 x1 = x1 + s1;
-                Thread.Sleep(500);
+                Thread.Sleep(50);
             }
 
         }
