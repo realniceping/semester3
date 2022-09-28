@@ -1,0 +1,15 @@
+D:\semak3\laba3\child\bin\Debug\net6.0\child.exe
+D:\semak3\laba3\child\bin\Debug\net6.0\child.deps.json
+D:\semak3\laba3\child\bin\Debug\net6.0\child.runtimeconfig.json
+D:\semak3\laba3\child\bin\Debug\net6.0\child.dll
+D:\semak3\laba3\child\bin\Debug\net6.0\child.pdb
+D:\semak3\laba3\child\obj\Debug\net6.0\child.csproj.AssemblyReference.cache
+D:\semak3\laba3\child\obj\Debug\net6.0\child.GeneratedMSBuildEditorConfig.editorconfig
+D:\semak3\laba3\child\obj\Debug\net6.0\child.AssemblyInfoInputs.cache
+D:\semak3\laba3\child\obj\Debug\net6.0\child.AssemblyInfo.cs
+D:\semak3\laba3\child\obj\Debug\net6.0\child.csproj.CoreCompileInputs.cache
+D:\semak3\laba3\child\obj\Debug\net6.0\child.dll
+D:\semak3\laba3\child\obj\Debug\net6.0\refint\child.dll
+D:\semak3\laba3\child\obj\Debug\net6.0\child.pdb
+D:\semak3\laba3\child\obj\Debug\net6.0\child.genruntimeconfig.cache
+D:\semak3\laba3\child\obj\Debug\net6.0\ref\child.dll

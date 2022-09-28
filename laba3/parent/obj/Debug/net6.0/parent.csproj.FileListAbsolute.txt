@@ -1,0 +1,15 @@
+D:\semak3\laba3\parent\bin\Debug\net6.0\parent.exe
+D:\semak3\laba3\parent\bin\Debug\net6.0\parent.deps.json
+D:\semak3\laba3\parent\bin\Debug\net6.0\parent.runtimeconfig.json
+D:\semak3\laba3\parent\bin\Debug\net6.0\parent.dll
+D:\semak3\laba3\parent\bin\Debug\net6.0\parent.pdb
+D:\semak3\laba3\parent\obj\Debug\net6.0\parent.csproj.AssemblyReference.cache
+D:\semak3\laba3\parent\obj\Debug\net6.0\parent.GeneratedMSBuildEditorConfig.editorconfig
+D:\semak3\laba3\parent\obj\Debug\net6.0\parent.AssemblyInfoInputs.cache
+D:\semak3\laba3\parent\obj\Debug\net6.0\parent.AssemblyInfo.cs
+D:\semak3\laba3\parent\obj\Debug\net6.0\parent.csproj.CoreCompileInputs.cache
+D:\semak3\laba3\parent\obj\Debug\net6.0\parent.dll
+D:\semak3\laba3\parent\obj\Debug\net6.0\refint\parent.dll
+D:\semak3\laba3\parent\obj\Debug\net6.0\parent.pdb
+D:\semak3\laba3\parent\obj\Debug\net6.0\parent.genruntimeconfig.cache
+D:\semak3\laba3\parent\obj\Debug\net6.0\ref\parent.dll
