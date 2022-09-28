@@ -1,0 +1,15 @@
+D:\semak2\osi\laba22\childProcess\bin\Debug\net6.0\childProcess.exe
+D:\semak2\osi\laba22\childProcess\bin\Debug\net6.0\childProcess.deps.json
+D:\semak2\osi\laba22\childProcess\bin\Debug\net6.0\childProcess.runtimeconfig.json
+D:\semak2\osi\laba22\childProcess\bin\Debug\net6.0\childProcess.dll
+D:\semak2\osi\laba22\childProcess\bin\Debug\net6.0\childProcess.pdb
+D:\semak2\osi\laba22\childProcess\obj\Debug\net6.0\childProcess.csproj.AssemblyReference.cache
+D:\semak2\osi\laba22\childProcess\obj\Debug\net6.0\childProcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\semak2\osi\laba22\childProcess\obj\Debug\net6.0\childProcess.AssemblyInfoInputs.cache
+D:\semak2\osi\laba22\childProcess\obj\Debug\net6.0\childProcess.AssemblyInfo.cs
+D:\semak2\osi\laba22\childProcess\obj\Debug\net6.0\childProcess.csproj.CoreCompileInputs.cache
+D:\semak2\osi\laba22\childProcess\obj\Debug\net6.0\childProcess.dll
+D:\semak2\osi\laba22\childProcess\obj\Debug\net6.0\refint\childProcess.dll
+D:\semak2\osi\laba22\childProcess\obj\Debug\net6.0\childProcess.pdb
+D:\semak2\osi\laba22\childProcess\obj\Debug\net6.0\childProcess.genruntimeconfig.cache
+D:\semak2\osi\laba22\childProcess\obj\Debug\net6.0\ref\childProcess.dll
