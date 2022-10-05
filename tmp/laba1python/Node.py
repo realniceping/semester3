@@ -15,7 +15,7 @@ class Node:
 
 def search(value: int, root: Node):
     if(root.value == value):
-        print("we found node ")
+        print("node fouhnded")
 
     if(value > root.value):
         if(root.right == None):
@@ -54,10 +54,10 @@ if __name__ == "__main__":
 
     root: Node = Node(0)
 
-    for i in range(10):
+    for i in range(100000):
         insert(random.randint(-10000, 10000), root)
 
     inp = 0
     while(inp != 1):
-        inp = int(input(">>>"))
+        inp = int(input("(1 = exit)>>>"))
         search(inp, root)
