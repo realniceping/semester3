@@ -15,7 +15,7 @@ class Node:
 
 def search(value: int, root: Node):
     if(root.value == value):
-        print("node fouhnded")
+        print("node founded")
 
     if(value > root.value):
         if(root.right == None):
