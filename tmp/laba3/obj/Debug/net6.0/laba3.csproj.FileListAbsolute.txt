@@ -1,0 +1,15 @@
+D:\semester3\semester3\tmp\laba3\bin\Debug\net6.0\laba3.exe
+D:\semester3\semester3\tmp\laba3\bin\Debug\net6.0\laba3.deps.json
+D:\semester3\semester3\tmp\laba3\bin\Debug\net6.0\laba3.runtimeconfig.json
+D:\semester3\semester3\tmp\laba3\bin\Debug\net6.0\laba3.dll
+D:\semester3\semester3\tmp\laba3\bin\Debug\net6.0\laba3.pdb
+D:\semester3\semester3\tmp\laba3\obj\Debug\net6.0\laba3.csproj.AssemblyReference.cache
+D:\semester3\semester3\tmp\laba3\obj\Debug\net6.0\laba3.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester3\semester3\tmp\laba3\obj\Debug\net6.0\laba3.AssemblyInfoInputs.cache
+D:\semester3\semester3\tmp\laba3\obj\Debug\net6.0\laba3.AssemblyInfo.cs
+D:\semester3\semester3\tmp\laba3\obj\Debug\net6.0\laba3.csproj.CoreCompileInputs.cache
+D:\semester3\semester3\tmp\laba3\obj\Debug\net6.0\laba3.dll
+D:\semester3\semester3\tmp\laba3\obj\Debug\net6.0\refint\laba3.dll
+D:\semester3\semester3\tmp\laba3\obj\Debug\net6.0\laba3.pdb
+D:\semester3\semester3\tmp\laba3\obj\Debug\net6.0\laba3.genruntimeconfig.cache
+D:\semester3\semester3\tmp\laba3\obj\Debug\net6.0\ref\laba3.dll

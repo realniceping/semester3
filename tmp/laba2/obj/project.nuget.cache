@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D0g+XyefjIezh2Norx9H6t4p99BxXJgKlWL28/hxFqipBFdKlsr2diPTa0DM4BmlIq83wbPzfoYZsdNkYMudYA==",
+  "dgSpecHash": "GhhzVvmfnQayup3OksrcvJi3KGZqpyq2kovk9RERtcQvwm50L71tjtWFUFPB1ENXXcwmYu8xzDTbKChsNIt50A==",
   "success": true,
-  "projectFilePath": "D:\\semester3\\semester3\\tmp\\laba2\\laba2.csproj",
+  "projectFilePath": "d:\\semester3\\semester3\\tmp\\laba2\\laba2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Osipenko Arseny\\.nuget\\packages\\benchmarkdotnet\\0.13.2\\benchmarkdotnet.0.13.2.nupkg.sha512",
     "C:\\Users\\Osipenko Arseny\\.nuget\\packages\\benchmarkdotnet.annotations\\0.13.2\\benchmarkdotnet.annotations.0.13.2.nupkg.sha512",

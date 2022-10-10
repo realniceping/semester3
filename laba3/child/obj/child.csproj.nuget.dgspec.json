@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\semak3\\laba3\\child\\child.csproj": {}
+    "d:\\semester3\\semester3\\laba3\\child\\child.csproj": {}
   },
   "projects": {
-    "D:\\semak3\\laba3\\child\\child.csproj": {
+    "d:\\semester3\\semester3\\laba3\\child\\child.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\semak3\\laba3\\child\\child.csproj",
+        "projectUniqueName": "d:\\semester3\\semester3\\laba3\\child\\child.csproj",
         "projectName": "child",
-        "projectPath": "D:\\semak3\\laba3\\child\\child.csproj",
+        "projectPath": "d:\\semester3\\semester3\\laba3\\child\\child.csproj",
         "packagesPath": "C:\\Users\\Osipenko Arseny\\.nuget\\packages\\",
-        "outputPath": "D:\\semak3\\laba3\\child\\obj\\",
+        "outputPath": "d:\\semester3\\semester3\\laba3\\child\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Osipenko Arseny\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://www.nuget.org/api/v2": {},
+          "https://www.nuget.org/api/v2": {}
         },
         "frameworks": {
           "net6.0": {
@@ -45,7 +46,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

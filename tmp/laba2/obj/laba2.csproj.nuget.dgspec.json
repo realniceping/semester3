@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\semester3\\semester3\\tmp\\laba2\\laba2.csproj": {}
+    "d:\\semester3\\semester3\\tmp\\laba2\\laba2.csproj": {}
   },
   "projects": {
-    "D:\\semester3\\semester3\\tmp\\laba2\\laba2.csproj": {
+    "d:\\semester3\\semester3\\tmp\\laba2\\laba2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\semester3\\semester3\\tmp\\laba2\\laba2.csproj",
+        "projectUniqueName": "d:\\semester3\\semester3\\tmp\\laba2\\laba2.csproj",
         "projectName": "laba2",
-        "projectPath": "D:\\semester3\\semester3\\tmp\\laba2\\laba2.csproj",
+        "projectPath": "d:\\semester3\\semester3\\tmp\\laba2\\laba2.csproj",
         "packagesPath": "C:\\Users\\Osipenko Arseny\\.nuget\\packages\\",
-        "outputPath": "D:\\semester3\\semester3\\tmp\\laba2\\obj\\",
+        "outputPath": "d:\\semester3\\semester3\\tmp\\laba2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Osipenko Arseny\\AppData\\Roaming\\NuGet\\NuGet.Config",
