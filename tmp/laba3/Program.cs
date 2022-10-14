@@ -41,7 +41,8 @@ class Program
                 {
                     Console.WriteLine("FuncName -- test");
                     IntPtr ptri = Dll1Connector.FuncName();
-                    Console.WriteLine($"result = {ptri}");
+                    var str = Marshal.PtrToStringAnsi(ptri);
+                    Console.WriteLine($"result = {str}");
                 }
                 catch (BadImageFormatException)
                 {
@@ -71,7 +72,8 @@ class Program
                     Console.WriteLine("FuncName -- test");
 
                     IntPtr ptri = Dll2Connector.FuncName();
-                    Console.WriteLine($"result = {ptri}");
+                    var str = Marshal.PtrToStringAnsi(ptri);
+                    Console.WriteLine($"result = {str}");
 
                 }
                 catch (BadImageFormatException)
@@ -101,7 +103,8 @@ class Program
                 {
                     Console.WriteLine("FuncName -- test");
                     IntPtr ptri = Dll3Connector.FuncName();
-                    Console.WriteLine($"result = {ptri}");
+                    var str = Marshal.PtrToStringAnsi(ptri);
+                    Console.WriteLine($"result = {str}");
 
                 }
                 catch (BadImageFormatException)
@@ -121,17 +124,18 @@ class Program
                         Console.WriteLine($"| {i} | {x}");
                     }
                 }
-                catch (BadImageFormatException)
+                catch (Exception e)
                 {
 
-                    Console.WriteLine("TheFunc not found!");
+                    Console.WriteLine(e.Message);
                 }
 
                 try
                 {
                     Console.WriteLine("FuncName -- test");
                     IntPtr ptri = Dll4Connector.FuncName();
-                    Console.WriteLine($"result = {ptri}");
+                    var str = Marshal.PtrToStringAnsi(ptri);
+                    Console.WriteLine($"result = {str}");
 
                 }
                 catch (BadImageFormatException)
@@ -151,22 +155,23 @@ class Program
                         Console.WriteLine($"| {i} | {x}");
                     }
                 }
-                catch (BadImageFormatException)
+                catch (Exception e)
                 {
 
-                    Console.WriteLine("TheFunc not found!");
+                    Console.WriteLine(e.Message);
                 }
 
                 try
                 {
                     Console.WriteLine("FuncName -- test");
                     IntPtr ptri = Dll5Connector.FuncName();
-                    Console.WriteLine($"result = {ptri}");
+                    var str = Marshal.PtrToStringAnsi(ptri);
+                    Console.WriteLine($"result = {str}");
 
                 }
-                catch (BadImageFormatException)
+                catch (Exception e)
                 {
-                    Console.WriteLine("Func name not found");
+                    Console.WriteLine(e.Message);
                 }
             }
 
@@ -191,7 +196,8 @@ class Program
                 {
                     Console.WriteLine("FuncName -- test");
                     IntPtr ptri = Dll6Connector.FuncName();
-                    Console.WriteLine($"result = {ptri}");
+                    var str = Marshal.PtrToStringAnsi(ptri);
+                    Console.WriteLine($"result = {str}");
 
                 }
                 catch (BadImageFormatException)

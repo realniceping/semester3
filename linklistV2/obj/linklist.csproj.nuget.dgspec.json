@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\semester3\\semester3\\linklistV2\\linklist.csproj": {}
+    "D:\\semester3\\semester3\\linkListV2\\linklist.csproj": {}
   },
   "projects": {
-    "d:\\semester3\\semester3\\linklistV2\\linklist.csproj": {
+    "D:\\semester3\\semester3\\linkListV2\\linklist.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\semester3\\semester3\\linklistV2\\linklist.csproj",
+        "projectUniqueName": "D:\\semester3\\semester3\\linkListV2\\linklist.csproj",
         "projectName": "linklist",
-        "projectPath": "d:\\semester3\\semester3\\linklistV2\\linklist.csproj",
+        "projectPath": "D:\\semester3\\semester3\\linkListV2\\linklist.csproj",
         "packagesPath": "C:\\Users\\Osipenko Arseny\\.nuget\\packages\\",
-        "outputPath": "d:\\semester3\\semester3\\linklistV2\\obj\\",
+        "outputPath": "D:\\semester3\\semester3\\linkListV2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Osipenko Arseny\\AppData\\Roaming\\NuGet\\NuGet.Config",

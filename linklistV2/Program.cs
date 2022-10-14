@@ -16,10 +16,7 @@ class Program
         threadOdd.Start();
         threadEven.Start();
 
-
         Console.WriteLine("_______________");
-
-
 
         oddAndEven.Print();
 
@@ -27,9 +24,10 @@ class Program
 
     public static void AddOdd(LinkList<int> list)
     {
+
         for (int i = 1; i < 100; i = i + 2)
         {
-            Thread.Sleep(0);
+            // Thread.Sleep(0);
             list.Add(i);
         }
 
@@ -40,7 +38,7 @@ class Program
     {
         for (int i = 2; i < 100; i = i + 2)
         {
-            Thread.Sleep(0);
+            // Thread.Sleep(0);
             list.Add(i);
         }
     }

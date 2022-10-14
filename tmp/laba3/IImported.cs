@@ -1,6 +1,5 @@
 using System.Runtime.InteropServices;
 
-
 namespace laba3;
 
 interface IImported
