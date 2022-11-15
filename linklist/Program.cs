@@ -7,7 +7,6 @@ class Program{
     static void Main(string[] args){
         
         
-
         Random rng = new Random();
         LinkList a = new LinkList(10);
         Console.WriteLine(10);

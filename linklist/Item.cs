@@ -5,9 +5,9 @@ namespace linklist;
 class Item
 {
 
-    public Item previos;
+    public Item? previos;
 
-    public Item next;
+    public Item? next;
 
     public int value;
 

@@ -8,8 +8,6 @@ public class ChildProcess
     {
         try
         {
-            string s;
-
             Console.WriteLine("Child process started");
 
             // Получаем текущий процесс

@@ -3,8 +3,8 @@ using System;
 namespace linklist;
  class LinkList{
 
-    public Item Previos;
-    public Item First;
+    public Item? Previos{get;set;}
+    public Item? First{get;set;}
 
     public LinkList(int value){
         this.First = null;
@@ -33,6 +33,7 @@ namespace linklist;
 
     public void Print(){
 
+        
         Item temp = this.First;
 
         while(temp.next != null){
