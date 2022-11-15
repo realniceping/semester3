@@ -1,11 +1,56 @@
 ﻿using System;
+using BenchmarkDotNet;
+using BenchmarkDotNet.Attributes;
+using BenchmarkDotNet.Running;
+
 
 namespace laba2
 {
 
     class Program
     {
-        static void Main(string[] args)
+
+        public static void Main()
+        {
+
+            BenchmarkRunner.Run<BenchmarkTester>();
+
+            // bool bench = true;
+            // if (bench)
+            // {
+            //     var summary = BenchmarkRunner.Run<BenchmarkTester>();
+            // }
+
+            // Kucha kucha = new Kucha();
+            // Random rng = new Random();
+
+            // for (int i = 0; i < 100; i++)
+            // {
+            //     kucha.push(new Item(rng.Next(100000), rng.Next(1, 10)));
+            // }
+
+            // for (int i = 0; i < 1000; i++)
+            // {
+            //     try
+            //     {
+            //         Console.WriteLine(kucha.pop().ToString());
+            //     }
+            //     catch (Exception e)
+            //     {
+            //         Console.WriteLine(e.Message);
+            //         break;
+            //     }
+            // }
+        }
+
+
+    }
+
+    [MemoryDiagnoser]
+    public class BenchmarkTester
+    {
+        [Benchmark]
+        public void test()
         {
             Kucha kucha = new Kucha();
             Random rng = new Random();
@@ -15,21 +60,37 @@ namespace laba2
                 kucha.push(new Item(rng.Next(100000), rng.Next(1, 10)));
             }
 
-            for (int i = 0; i < 1000; i++)
+            for (int i = 0; i < 100; i++)
             {
                 try
                 {
-                    Console.WriteLine(kucha.pop().ToString());
+                    var s = kucha.pop();
                 }
                 catch (Exception e)
                 {
-                    Console.WriteLine(e.Message);
+                    // Console.WriteLine(e.Message);
                     break;
                 }
+            }
+        }
+
+        [Benchmark]
+        public void testPriorityQueue()
+        {
+            PriorityQueue<int, int> queue = new PriorityQueue<int, int>(100);
+            Random rand = new Random();
+            for (int i = 0; i < 100; i++)
+            {
+                queue.Enqueue(rand.Next(100000), rand.Next(10));
+            }
+            for (int i = 0; i < 100; i++)
+            {
+                queue.Peek();
             }
 
         }
     }
+
 
     class Kucha
     {
@@ -40,10 +101,12 @@ namespace laba2
             this.storage = new List<Item>();
         }
 
+
         public void push(Item i)
         {
             this.storage.Add(i);
         }
+
 
         public Item pop()
         {

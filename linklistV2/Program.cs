@@ -2,28 +2,45 @@
 
 namespace linklist;
 
-class Program{
+class Program
+{
 
-    static void Main(string[] args){
-        
-        
+    static void Main(string[] args)
+    {
 
-        Random rng = new Random();
-        LinkList<int> a = new LinkList<int>(10);
-        Console.WriteLine(10);
+        LinkList<int> oddAndEven = new LinkList<int>(0);
 
-        for(int i = 0; i < 10; i++){
-            int b = rng.Next(10);
-            a.Add(b);
-            Console.WriteLine(b);
-        }
+
+        var threadOdd = new Thread(delegate () { AddOdd(oddAndEven); });
+        var threadEven = new Thread(delegate () { AddEven(oddAndEven); });
+        threadOdd.Start();
+        threadEven.Start();
 
         Console.WriteLine("_______________");
 
-        a.Print();
+        oddAndEven.Print();
 
     }
 
-    
+    public static void AddOdd(LinkList<int> list)
+    {
+
+        for (int i = 1; i < 100; i = i + 2)
+        {
+            // Thread.Sleep(0);
+            list.Add(i);
+        }
+
+
+    }
+
+    public static void AddEven(LinkList<int> list)
+    {
+        for (int i = 2; i < 100; i = i + 2)
+        {
+            // Thread.Sleep(0);
+            list.Add(i);
+        }
+    }
 
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\semak3\\laba2\\laba2.csproj": {}
+    "d:\\semester3\\semester3\\tmp\\laba2\\laba2.csproj": {}
   },
   "projects": {
-    "D:\\semak3\\laba2\\laba2.csproj": {
+    "d:\\semester3\\semester3\\tmp\\laba2\\laba2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\semak3\\laba2\\laba2.csproj",
+        "projectUniqueName": "d:\\semester3\\semester3\\tmp\\laba2\\laba2.csproj",
         "projectName": "laba2",
-        "projectPath": "D:\\semak3\\laba2\\laba2.csproj",
+        "projectPath": "d:\\semester3\\semester3\\tmp\\laba2\\laba2.csproj",
         "packagesPath": "C:\\Users\\Osipenko Arseny\\.nuget\\packages\\",
-        "outputPath": "D:\\semak3\\laba2\\obj\\",
+        "outputPath": "d:\\semester3\\semester3\\tmp\\laba2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Osipenko Arseny\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://www.nuget.org/api/v2": {},
+          "https://www.nuget.org/api/v2": {}
         },
         "frameworks": {
           "net6.0": {
@@ -39,13 +40,20 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "BenchmarkDotNet": {
+              "target": "Package",
+              "version": "[0.13.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
